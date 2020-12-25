@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c69edca-356b-4e79-bdbd-5454eac9465f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Environment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\lym\Environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1losR51g9iis12UHGgMU3Yq6yrb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.UnitTest.testFindKthToTail">
+    <configuration name="UnitTest.testFindKthToTail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zju.lym.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zju.lym.algo" />
+      <option name="MAIN_CLASS_NAME" value="zju.lym.algo.UnitTest" />
+      <option name="METHOD_NAME" value="testFindKthToTail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testGetLeastKNums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zju.lym.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zju.lym.algo" />
+      <option name="MAIN_CLASS_NAME" value="zju.lym.algo.UnitTest" />
+      <option name="METHOD_NAME" value="testGetLeastKNums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testIsPopOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zju.lym.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zju.lym.algo" />
+      <option name="MAIN_CLASS_NAME" value="zju.lym.algo.UnitTest" />
+      <option name="METHOD_NAME" value="testIsPopOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testLongestNoDupSubStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zju.lym.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zju.lym.algo" />
+      <option name="MAIN_CLASS_NAME" value="zju.lym.algo.UnitTest" />
+      <option name="METHOD_NAME" value="testLongestNoDupSubStr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testMoreThanHalfNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zju.lym.algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zju.lym.algo" />
+      <option name="MAIN_CLASS_NAME" value="zju.lym.algo.UnitTest" />
+      <option name="METHOD_NAME" value="testMoreThanHalfNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTest.testFindKthToTail" />
+        <item itemvalue="JUnit.UnitTest.testIsPopOrder" />
+        <item itemvalue="JUnit.UnitTest.testMoreThanHalfNum" />
+        <item itemvalue="JUnit.UnitTest.testGetLeastKNums" />
+        <item itemvalue="JUnit.UnitTest.testLongestNoDupSubStr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c69edca-356b-4e79-bdbd-5454eac9465f" name="Default Changelist" comment="" />
+      <created>1608274766723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608274766723</updated>
+      <workItem from="1608274768742" duration="3009000" />
+      <workItem from="1608281797386" duration="32281000" />
+      <workItem from="1608365717147" duration="1329000" />
+      <workItem from="1608479189758" duration="152000" />
+      <workItem from="1608480737527" duration="2151000" />
+      <workItem from="1608533016232" duration="10732000" />
+      <workItem from="1608573126902" duration="2497000" />
+      <workItem from="1608575715161" duration="1079000" />
+      <workItem from="1608612700166" duration="562000" />
+      <workItem from="1608622837096" duration="33915000" />
+      <workItem from="1608704820221" duration="27723000" />
+      <workItem from="1608789223716" duration="903000" />
+      <workItem from="1608792045776" duration="19598000" />
+      <workItem from="1608873528575" duration="31175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Project_Structure" timestamp="1608716493849">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1608716493849" />
+    <state x="397" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1608752960822">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="397" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1608752960822" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608286237199">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1608286237199" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1608274828148">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1608274828148" />
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom" timestamp="1608911418680">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1608911418680" />
+    <state width="1237" height="142" key="GridCell.Tab.0.center" timestamp="1608911418680">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1608911418680" />
+    <state width="1237" height="142" key="GridCell.Tab.0.left" timestamp="1608911418680">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1608911418680" />
+    <state width="1237" height="142" key="GridCell.Tab.0.right" timestamp="1608911418680">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1608911418680" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1608660403560">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1608660403560" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1608660403560">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1608660403560" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1608660403560">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1608660403560" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1608660403560">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1608660403560" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1608274833712">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1608274833712" />
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup" timestamp="1608908856649">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1608908856649" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1608898730464">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1608898730464" />
+  </component>
+</project>
