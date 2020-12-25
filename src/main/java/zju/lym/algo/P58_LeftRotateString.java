@@ -1,7 +1,7 @@
 package zju.lym.algo;
 
 /**
- * 将字符串从第位旋转
+ * 将字符串从第n位旋转
  */
 public class P58_LeftRotateString {
   public static String solution(String str, int n) {
